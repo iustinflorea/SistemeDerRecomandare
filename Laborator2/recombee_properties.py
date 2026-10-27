@@ -8,7 +8,7 @@ from recombee_api_client.exceptions import APIException
 # TODO 1: Configurare credentiale Recombee
 # Introduceti datele din contul vostru (Settings -> API Logins in Recombee Admin UI)
 DB_NAME = 'unstpb-ro-adidas-nike-lab'
-PRIVATE_TOKEN = 'v3lIOJ75ZXxHdcG8T2jES0vTsrU8TlZGnZuKTpBJ8VhDdgOGYlY0tQoesZrZnpro'
+PRIVATE_TOKEN = ''
 
 
 # Initializarea clientului Recombee
