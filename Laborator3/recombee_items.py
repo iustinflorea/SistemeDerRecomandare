@@ -6,7 +6,7 @@ from recombee_api_client.exceptions import APIException
 
 # TODO 1: Configurare credentiale Recombee (la fel ca la Lab 02)
 DB_NAME = 'unstpb-ro-adidas-nike-lab'
-PRIVATE_TOKEN = 'v3lIOJ75ZXxHdcG8T2jES0vTsrU8TlZGnZuKTpBJ8VhDdgOGYlY0tQoesZrZnpro'
+PRIVATE_TOKEN = ''
 
 client = RecombeeClient(DB_NAME, PRIVATE_TOKEN, region=Region.EU_WEST)
 
